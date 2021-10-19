@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T08:11:46.603Z" agent="5.0 (Windows)" etag="lzCS-_5jsKdTczmJ8LFF" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T08:18:00.236Z" agent="5.0 (Windows)" etag="NT3hJG7Fu0Q03vhICmG4" version="15.5.5" type="github">
   <diagram id="a3rFMuSCF0kdhrKD-A-Z" name="Page-1">
     <mxGraphModel dx="1026" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,16 +22,16 @@
         <mxCell id="BhVjoURGV-7zEwOCmsBP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="BhVjoURGV-7zEwOCmsBP-7" target="BhVjoURGV-7zEwOCmsBP-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BhVjoURGV-7zEwOCmsBP-7" value="plkongdb01.domain.se(PostgresQL)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
+        <mxCell id="BhVjoURGV-7zEwOCmsBP-7" value="tlkongdb01.domain.se(PostgresQL)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
           <mxGeometry x="337.7" y="30" width="94.59" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BhVjoURGV-7zEwOCmsBP-16" value="plapikong01.domain.se" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BhVjoURGV-7zEwOCmsBP-16" value="tlapikong01.domain.se" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="323" y="263" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BhVjoURGV-7zEwOCmsBP-18" value="plapikong02.domain.se" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BhVjoURGV-7zEwOCmsBP-18" value="tlapikong02.domain.se" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="526" y="263" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BhVjoURGV-7zEwOCmsBP-19" value="plapikong03.domain.se" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BhVjoURGV-7zEwOCmsBP-19" value="tlapikong03.domain.se" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="260" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BhVjoURGV-7zEwOCmsBP-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/128/Gateway.png" vertex="1" parent="1">
